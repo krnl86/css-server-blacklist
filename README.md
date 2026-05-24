@@ -1,6 +1,3 @@
-# css-server-blacklist
-Inspired by and forged from Ballanda's work; updated on 2026 
-
 # CSS Server Blacklist
 
 > A community-maintained blacklist of Counter-Strike: Source servers known for running cheats, aimbots, unfair plugins, or otherwise ruining the gameplay experience.
@@ -41,8 +38,14 @@ This project was inspired by and built upon the work of **[Ballganda](https://gi
 
 ### License
 
-Distributed under the **GNU General Public License v3.0**.
-See the [`LICENSE`](LICENSE) file for full terms.
+This project is distributed under the **GNU General Public License v3.0** — see the [`LICENSE`](LICENSE) file for full terms.
+
+It is based on work by **Ballganda**, originally licensed under **GPL-2.0-or-later**. A copy of the original license is included in [`LICENSES/GPL-2.0.txt`](LICENSES/GPL-2.0.txt) for attribution and compliance purposes.
+
+```
+Upstream work:  GPL-2.0-or-later  (Ballganda/css-server-blacklist)
+This repository: GPL-3.0-or-later  (krnl86/css-server-blacklist)
+```
 
 ---
 
@@ -80,5 +83,11 @@ Este proyecto está inspirado en el trabajo de **[Ballganda](https://github.com/
 
 ### Licencia
 
-Publicado bajo la **Licencia Pública General de GNU v3.0**.
-Consulta el archivo [`LICENSE`](LICENSE) para ver los términos comp
+Este repositorio se distribuye bajo la **Licencia Pública General de GNU v3.0** — consulta el archivo [`LICENSE`](LICENSE) para ver los términos completos.
+
+Está basado en el trabajo de **Ballganda**, publicado originalmente bajo **GPL-2.0-or-later**. Se incluye una copia de dicha licencia en [`LICENSES/GPL-2.0.txt`](LICENSES/GPL-2.0.txt) con fines de atribución y cumplimiento legal.
+
+```
+Proyecto original:  GPL-2.0-or-later  (Ballganda/css-server-blacklist)
+Este repositorio:   GPL-3.0-or-later  (krnl86/css-server-blacklist)
+```
